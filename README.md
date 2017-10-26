@@ -10,3 +10,5 @@ Restaurant Recommendation System(RRS) is a Yelp API based restaurant search and 
 ·Add new function to recommend restaurants based on ratings;  
 ·Improve event and error logging code;  
 ·Add paging function for returned result to improve user experience.
+# Prerequisites
+Install Java, Apache Tomcat, MAMP/SQL.
